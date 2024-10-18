@@ -7,7 +7,7 @@ import Article from "./pages/article/Article";
 function App() {
   return (
     <>
-      <Routes>
+      <Routes basename="/article-blog/">
         <Route path="/" element={<Home />} />
         <Route path="/about" element={<About />} />
         <Route path="/add-article" element={<AddArticle />} />
