@@ -1,0 +1,32 @@
+.card {
+  border: none;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  transition: all 0.5s;
+}
+.card:hover {
+  scale: 1.05;
+}
+.card-text{
+    text-align: justify;
+    color: #504f4f;
+}
+.readMore{
+  color:  black;
+}
+
+.readMore:hover{
+    cursor: pointer;
+    color: #F9AA33;
+}
+.card-footer{
+    color: #666 !important;
+}
+.abi{
+  height: 170px !important; 
+}
+.desc {
+  display: -webkit-box;
+  -webkit-line-clamp: 7;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}

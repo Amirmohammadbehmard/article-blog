@@ -1,0 +1,84 @@
+{
+  "articls": [
+    {
+      "id": "1",
+      "title": "Moon",
+      "desc": "It is a spherical rocky body probably with a small metallic core revolving around Earth in a slightly eccentric orbit at a mean distance of about 384000 km (238600 miles). Its equatorial radius is 1738 km (1080 miles)",
+      "image": "https://c.tadst.com/gfx/600x337/supermoon-rise.jpg?1",
+      "readingTime": 5,
+      "category": "Solar system",
+      "writter": "Marianna "
+    },
+    {
+      "id": "2",
+      "title": "Earth",
+      "desc": "Our home planet Earth is a rocky, terrestrial planet. It has a solid and active surface with mountains, valleys, canyons, plains and so much more. Earth is special because it is an ocean planet. Water covers 70% of Earth's surface.",
+      "image": "https://4kwallpapers.com/images/walls/thumbs_2t/771.jpg",
+      "readingTime": 3,
+      "category": "Solar system",
+      "writter": "Zev"
+    },
+    {
+      "id": "3",
+      "title": "Sun",
+      "desc": "Our Sun is a 4.5 billion-year-old yellow dwarf star  a hot glowing ball of hydrogen and helium  at the center of our solar system. It's about 93 million miles (150 million kilometers) from Earth and it's our solar system's only star. Without the Sun's energy, life as we know it could not exist on our home planet.",
+      "image": "https://cdn.mos.cms.futurecdn.net/mmHsxcNMiF5mgrrqZp8KfX.jpg",
+      "readingTime": 5,
+      "category": "Solar system",
+      "writter": "Arturo"
+    },
+    {
+      "id": "4",
+      "title": "Stars",
+      "desc": "Stars are giant balls of hot gas – mostly hydrogen, with some helium and small amounts of other elements. Every star has its own life cycle, ranging from a few million to trillions of years, and its properties change as it ages.",
+      "image": "https://cff2.earth.com/uploads/2019/07/23191459/Westerlund2.jpg",
+      "readingTime": 5,
+      "category": "Solar system",
+      "writter": "Teresa"
+    },
+    {
+      "id": "5",
+      "title": "Mars",
+      "desc": "It's dry, rocky, and bitter cold. The fourth planet from the Sun, Mars, is one of Earth's two closest planetary neighbors (Venus is the other). Mars is one of the easiest planets to spot in the night sky  it looks like a bright red point of light.",
+      "image": "https://cdn.mos.cms.futurecdn.net/RdpZSgkQNJK8WS58P9wBik-1200-80.jpg",
+      "readingTime": 5,
+      "category": "Solar system",
+      "writter": "Nelson "
+    },
+    {
+      "id": "6",
+      "title": "Interstellar",
+      "desc": "Interstellar is a science fiction film about a former NASA pilot who is recruited to pilot a spacecraft through a newly discovered wormhole to find a potentially habitable planet on the other side, as humanity struggles to survive on a dying Earth",
+      "image": "https://images.squarespace-cdn.com/content/v1/6058f3b0dbb27b03bbd36be9/1616442358480-QB4FPW98SIE28C82E87X/interstellar_ron_burnett_critical_approaches",
+      "readingTime": 15,
+      "category": "Film",
+      "writter": "Ali"
+    },
+    {
+      "id": "7",
+      "title": "Gravity",
+      "desc": "The answer is gravity: an invisible force that pulls objects toward each other. Earth's gravity is what keeps you on the ground and what makes things fall. An animation of gravity at work. Albert Einstein described gravity as a curve in space that wraps around an object—such as a star or a planet.",
+      "image": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/e4d114ab-2005-497c-8526-e0d1c56a2ed5/deaff9b55c105e484d4fc72fa357efb7aff7f8fd.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom",
+      "readingTime": 10,
+      "category": "Film",
+      "writter": "Alfonso "
+    },
+    {
+      "id": "8",
+      "title": "Sputnik",
+      "desc": "At the height of the Cold War a Soviet spacecraft crash lands after a mission gone awry, leaving the commander as its only survivor. After a renowned Russian psychologist is brought in to evaluate the commander's mental state, it becomes clear that something dangerous may have come back to Earth with him.",
+      "image": "https://www.maridacaterini.it/wp-content/uploads/2021/04/Sputnik-film-Rai-4.jpg",
+      "readingTime": 7,
+      "category": "Film",
+      "writter": "Oleg "
+    },
+    {
+      "id": "a9a4",
+      "title": "karim",
+      "desc": "idk",
+      "writter": "benzema",
+      "image": "https://sf.football.fr/wp-content/uploads/2024/09/karim-benzema-al-ittihad-1-750x368.jpg",
+      "readingtime": "87"
+    }
+  ]
+}

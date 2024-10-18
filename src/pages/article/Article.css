@@ -1,0 +1,44 @@
+.parentCard {
+  width: 380px;
+  height: 430px;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+.childCard-footer {
+  position: relative;
+  top: -20px;
+  margin: auto;
+  text-align: center;
+}
+.childCard-footer img {
+  border-radius: 10px;
+  width: 80%;
+  height: 210px;
+}
+.buttonParent {
+  height: 50px;
+}
+.trashButton {
+  display: flex;
+  border-radius: 7px;
+  justify-content: center;
+  align-items: center;
+  width: 135px;
+  height: 35px;
+  margin-left: 7px;
+  padding: 4px !important;
+}
+
+.calenderButton {
+  display: flex;
+  border-radius: 7px;
+  align-items: center;
+  background-color:transparent !important;
+  width: 135px;
+  height: 35px;
+  margin-right: 7px;
+  padding: 4px !important;
+}
+.calenderButton:hover{
+  color: white !important;
+  background-color: #F9AA33 !important;
+}
